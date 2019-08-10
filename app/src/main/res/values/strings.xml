@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="Forgortreq">Please enter your EmailID, We will sent you an Email to change your password.</string>
+    <array name="Spinner">
+        <item name="Birthday">Birthday</item>
+        <item name="Wedding">Wedding</item>
+        <item name="Party">Party</item>
+    </array>
+
+</resources>
